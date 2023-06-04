@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"eventId":{"$numberInt":"1"}},"name":"eventId_1","background":true,"unique":true}],"uuid":"582ef3413cdf4cee937ab720f093b291","collectionName":"political_mapping_state_data","type":"collection"}
